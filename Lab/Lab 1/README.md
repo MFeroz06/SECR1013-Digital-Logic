@@ -1,4 +1,8 @@
 # Lab 1 : Combinational Logic
+## Group Member
+---
+1. Muhammad Fairuz bin Herman
+2. Nasaaie bin Noriskamar
 ## Objectives
 ---
 - The objectives of this laboratory are to introduce the student to basic bread boarding and wiring techniques the use of input switches and output LEDs in generating truth tables for a combinational logic circuit to verify the characteristic of the basic gates
