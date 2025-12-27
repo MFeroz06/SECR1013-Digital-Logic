@@ -1,5 +1,10 @@
 # Lab 2 : Combinational Digital Circuit Design Simulation Using Deeds Simulator
 
+## Group Member
+---
+1. Muhammad Fairuz bin Herman
+2. Nasaaie bin Noriskamar
+
 ## Objective
 ---  
 - To expose student with producing digital logic circuit, generating truth table and Timing Diagram with Deeds Simulator 
