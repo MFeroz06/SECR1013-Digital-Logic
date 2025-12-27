@@ -11,8 +11,9 @@
 - 7400 Quad 2-input NAND 
 - 7432 Quad 2 –input OR 
 - ETS-5000 Digital Training kit
-
+---
 ## Introduction
+---
 - This lab focuses on several practical issues related to bread boarding and testing combinational logic circuits. Several helpful points are made below.
 - **Wire gauge** - Use only 22 gauge wire. The breadboard may be damaged by forcing smaller gauge (larger diameter) wire into the holes.
 - **Wire color** - Use organized color schemes when wiring circuits. For example, use RED wire for all Vcc connections, BLACK wire for all ground connections, BLUE wire for all input switches, and YELLOW wire for all intermediate signal connections.
@@ -31,3 +32,4 @@
   -   H indicates logic HIGH (1), L means LOW (0) and P means pulse (the signal keeps on changing between HIGH and LOW). 
 - **Switches** 
   - There are 8 toggle switches at the bottom row of the digital circuit. These switches will provide a logic input of HIGH (1) and LOW (0) to the circuit.
+---
