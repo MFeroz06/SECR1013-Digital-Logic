@@ -56,6 +56,6 @@ Credit : 03
 - Lab (17%)
 - Quiz 1-3 (18%)
 - Test (20%)
-- Project (20%)
+- Project (15%)
 - Final Exam (30%)
 ---
