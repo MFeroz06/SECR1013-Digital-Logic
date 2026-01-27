@@ -57,3 +57,13 @@
     <img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Assignment/Assignment%201/images/Untitled%20design%20(1).png" alt="Click me" width ="500" >
   </a>
 </p>
+
+## ✨ Reflection
+---
+> This is my second project after Design Thinking, and it really improves my teamwork as a team. The project is hard to complete, but we as a team manage to complete the project.
+
+---
+
+## ✨ Suggestion for Improvement
+---
+> Asking for every team to build a prototype that can be applied with the circuit that every team make.
